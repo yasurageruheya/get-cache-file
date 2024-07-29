@@ -1,0 +1,19 @@
+{
+  "name": "get-cache-file",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasurageruheya/get-cache-file.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yasurageruheya/get-cache-file/issues"
+  },
+  "homepage": "https://github.com/yasurageruheya/get-cache-file#readme"
+}
